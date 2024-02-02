@@ -10,3 +10,6 @@ https://youtu.be/D5wv6eJcNAI?feature=shared
 
 VLSM számítás 3. rész
 https://youtu.be/LcRtklzpBdE?feature=shared
+
+SOHO router:
+https://youtu.be/qEDfDoCMsw4?feature=shared
