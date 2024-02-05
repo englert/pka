@@ -1,4 +1,8 @@
 # pka
+Cisco Router
+(https://szit.hu/doku.php?id=oktatas:halozat:cisco:router)
+
+
 Hálózatok  - Péter P -  34 videó 
 https://youtube.com/playlist?list=PLTC7VNurY23SJ_2G5tw-uXRcfv4xoeKnI&feature=shared
 
