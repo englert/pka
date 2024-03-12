@@ -17,3 +17,8 @@ https://youtu.be/LcRtklzpBdE?feature=shared
 
 SOHO router:
 https://youtu.be/qEDfDoCMsw4?feature=shared
+
+utp:
+https://www.agendaage.hu/tudasbazis/fogalmak/videotar
+https://www.youtube.com/@agendaage/featured
+
